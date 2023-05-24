@@ -7,7 +7,7 @@ services:
     depends_on:
       - db
   db:
-    build: /home/abdul
+    build: /home/yasirhc5
     environment:
       POSTGRES_USER: myuser
       POSTGRES_PASSWORD: mypassword
