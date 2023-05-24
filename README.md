@@ -49,16 +49,16 @@ and then i did the above steps too.
 docker-compose up
 
 # Output 
-Starting abdul_db_1 ... done
-Starting abdul_web_1 ... done
-Attaching to abdul_db_1, abdul_web_1
+Starting yasirhc5_db_1 ... done
+Starting yasirhc5_web_1 ... done
+Attaching to yasirhc5_db_1, yasirhc5_web_1
 db_1   | 
-db_1   | > abdul@1.0.0 start /app
+db_1   | > yasirhc5@1.0.0 start /app
 db_1   | > node app.js
 db_1   | 
 db_1   | Server running at http://0.0.0.0:3000/
 web_1  | 
-web_1  | > abdul@1.0.0 start /app
+web_1  | > yasirhc5@1.0.0 start /app
 web_1  | > node app.js
 web_1  | 
 web_1  | Server running at http://0.0.0.0:3000/
